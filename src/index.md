@@ -1,8 +1,9 @@
 ---
-title: page 1
+title: Home Page
 layout: base.njk
 ---
-hello how are you
+
+### P's website version 0.11
 
 
 [![sponge](/imgs/happysponge.png)](page2/)
