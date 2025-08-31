@@ -4,7 +4,7 @@
   return { 
     dir: { 
       input: 'src', 
-      output: 'publish'
+      output: 'docs'
     },
    };
 };
