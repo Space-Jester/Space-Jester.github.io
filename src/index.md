@@ -1,9 +1,8 @@
 ---
-title: Home Page
+title: Home
 layout: base.njk
 ---
 
-### P's website version 0.11
+### web version 0.12
 
-
-[personal](page2/)
+[personal](/personal/)
