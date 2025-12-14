@@ -15,9 +15,9 @@ title: personal
       alt="{{ personal.data.thumbnailAlt }}"
       loading="lazy"
       decoding="async"
-      style="aspect-ratio: 1440/1033; max-width: 100%; height: auto"
-      width="1440"
-      height="1033"
+      style="aspect-ratio: 140/933; max-width: 100%; height: auto"
+      width="140"
+      height="933"
     /> 
     <div class="caption">
       <h2><span class="title">{{ personal.data.title }}</span></h2>

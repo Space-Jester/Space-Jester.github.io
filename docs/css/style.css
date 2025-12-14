@@ -1,8 +1,8 @@
 :root {
-  --main-bg-color: #ddc1a4;
-  --neutral-bg-color:#ddc1a4;
-  --main-bg-gradient:radial-gradient(#ddc1a4, #ddc1a4);
-  --font-color: #49542a;
+  --main-bg-color: #FEFAE0;
+  --neutral-bg-color:#FEFAE0;
+  --main-bg-gradient:radial-gradient(#FEFAE0, #FEFAE0);
+  --font-color: #B99470 ;
   --white:#f9f9f0
   --link-color:#7c663c;
   --link-hover-color:#ffdd9f;
@@ -43,7 +43,7 @@ body {
   top:0;
   margin:0;
   padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  padding-right: 2.0rem;
   background-color:var(--main-bg-color);
   background-image:var(--main-bg-gradient);
   background-attachment:fixed;
@@ -55,6 +55,7 @@ body {
   color: var(--font-color);
   overflow-wrap:break-word;
   word-wrap:break-word;
+  overflow-x:hidden;
 }
 
 main {
@@ -164,7 +165,7 @@ a.current-link {
 
 nav ul li a.current-link {
   color:var(--white);
-  background-color:#305d29;
+  background-color: #5F6F52 ;
 }
 
 nav ul li a.unavailable {
